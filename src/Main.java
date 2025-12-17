@@ -1,4 +1,4 @@
-public class Main{
+/*public class Main{
     public static void area(double width, double height){
         return width*height;
     }
@@ -25,4 +25,4 @@ public class Main{
         perimetr(field.width(),field.height());
         area(field.width(),field.height());
     }
-}
+}*/
